@@ -130,7 +130,7 @@ class _CustomViewProfile extends State<CustomViewProfile> {
           const SizedBox(height: 10),
           _buildInfoContainer("Nome", fullName),
           const SizedBox(height: 10),
-          _buildInfoContainer("Password", password),
+          _buildInfoContainer("Password", "**********"),
         ],
       ),
     );
@@ -142,4 +142,10 @@ class _CustomViewProfile extends State<CustomViewProfile> {
     return _buildViewProfile(widget.userData);
   }
 }
+
+
+
+
+
+
 
