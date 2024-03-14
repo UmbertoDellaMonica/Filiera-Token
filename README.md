@@ -33,8 +33,6 @@ Il sistema proposto si concentra sulla gestione della filiera lattiero-casearia 
 | CheesePiece (Pezzetto di Formaggio) | Il CheesePiece è una frazione più piccola del formaggio, spesso utilizzata per degustazioni o per la preparazione di piatti specifici. Anche il CheesePiece è tracciabile attraverso la blockchain di CheeseChain. | <img src="./Filiera-Token-FrontEnd/filiera_token_front_end/filiera_token_front_end/assets/cheese_piece.png" alt="CheesePiece" width="200"/> |
 | MilkBatch (Partita di Latte) | Il MilkBatch è una partita specifica di latte raccolto e trasformato in formaggio. Ogni MilkBatch è registrato sulla blockchain insieme alle informazioni riguardanti la sua origine e il suo percorso nella filiera. | <img src="./Filiera-Token-FrontEnd/filiera_token_front_end/filiera_token_front_end/assets/milk.png" alt="MilkBatch" width="200"/> |
 
-Con questo codice, le immagini verranno ridimensionate a una larghezza di 200 pixel mentre verranno visualizzate nella tabella.
-
 ## Architettura
 
 ![Immagine Architettura](./docs/architettura.png)
